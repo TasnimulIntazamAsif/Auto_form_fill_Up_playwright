@@ -13,6 +13,11 @@ This project automates the process of:
 This is built using **Playwright (Python)** for browser automation.
 
 ---
+<img width="1747" height="1092" alt="Screenshot 2026-03-31 125010" src="https://github.com/user-attachments/assets/3d6ea97e-4a75-44f2-b4d1-c6b748966187" />
+
+<img width="1758" height="1098" alt="Screenshot 2026-03-31 125055" src="https://github.com/user-attachments/assets/83734fb7-5655-45ec-a6c7-be21ca002d70" />
+
+
 
 ## 🧰 Technologies Used
 
